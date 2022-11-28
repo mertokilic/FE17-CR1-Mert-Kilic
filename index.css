@@ -1,0 +1,121 @@
+body {
+      padding: 0px;
+}
+.logo1 {
+      height: 35px;
+      margin-top: 15px;
+      margin-left: 40px;
+    }
+#bar {
+      background-color: white;
+      height: 25px;
+      width: 270px;
+      margin-right: 90px;
+      margin-top: 20px;
+      float: right;
+      border-style: solid;
+      border-color: rgba(0, 0, 0, 0.7);
+      border-radius: 12px;
+      padding-left: 12px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 17px;
+      font-weight: 500;
+}
+.imgs {
+      height: 200px;
+      width: 200px;
+      margin: 15px;
+      display: inline;
+      margin-left: 50px;
+      align-items: center;
+      border-radius: 5px;
+      position: relative;
+      border-width: 9px;
+      border-style: solid;
+      margin-top: 100px;
+}
+
+.pics-box {
+      margin-left: 320px;
+      margin-right: 300px;
+      margin-top: 100px;
+}
+
+.zutaten {
+      color: black;
+      font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.linke-rezept-box {
+      border-radius: 5px;
+      background-color: rgba(239, 239, 239, 0.556);
+      display: inline-block;
+      padding-right: 25px;
+      padding-left: 25px;
+      margin-left: 200px;
+}
+
+.rechte-rezept-box {
+      border-radius: 5px;
+      background-color: rgba(239, 239, 239, 0.556);
+      display: inline-block;
+      float: right;
+      margin-right: 200px;
+}
+
+.rezept {
+      color: black;
+      font-size: 19px;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 25px;
+      margin-right: 25px;
+}
+
+footer {
+      background-color: black;
+      left: 0px;
+      right: 0px;
+      bottom: 0px;
+      height: 60px;
+}
+
+.imggg {
+      margin-top: 100px;
+      margin-left: 500px;
+      width: 500px;
+      height: 350px;
+      border-radius: 5px;
+      transition: 1.2s;
+      position: relative;
+}
+
+.rezept-titel {
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      top: 90%;
+      left: 45%;
+      padding-right: 120px;
+      padding-left: 120px;
+      transform: translate(-50%, -50%);
+      font-size: 40px;
+      background-color: rgba(0, 0, 0, 0.7);
+}
+
+.nav-link {
+      text-decoration: none;
+      color: black;
+      transition: 1s;
+      float: right;
+      display: flex;
+      flex-direction: row;
+      margin-right: 80px;
+      margin-top: 25px;
+      font-size: 19px;
+      font-weight: 700px;
+      font-family: Arial, Helvetica, sans-serif;
+}
+
+
+

@@ -1,0 +1,11 @@
+header {
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  background-color: rgb(241, 241, 241);
+  height: 70px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  z-index: 100;
+}
